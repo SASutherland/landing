@@ -1,0 +1,12 @@
+.btn-green {
+  background-color:rgba(37, 109, 133, 0.8);
+  padding: 15px 25px;
+  font-weight: bold;
+  color: white;
+  border-radius: 24px;
+  transition: background 0.3s ease;
+}
+
+.btn-green:hover {
+  background-color: rgb(37, 109, 133);
+}
